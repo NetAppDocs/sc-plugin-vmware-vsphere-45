@@ -1,1 +1,1 @@
-# sc-plugin-vmware-vsphere-45
+# sc-plugin-vmware-vsphere
