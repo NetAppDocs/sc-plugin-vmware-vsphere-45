@@ -1,6 +1,6 @@
 ---
 settings:
-  name: SnapCenter Plug-in 4.5 for VMware vSphere
+  name: SnapCenter Plug-in for VMware vSphere 4.5
   internal:
     pdf_enabled: true
   prod:
@@ -9,7 +9,7 @@ settings:
     langs: us-en,ja-jp,zh-cn
 sidebar:
   entries:
-    - title: SnapCenter Plug-in 4.5 for VMware vSphere
+    - title: SnapCenter Plug-in for VMware vSphere 4.5
       url: /index.html
     - title: Release notes
       url: /scpivs44_release_notes.html
