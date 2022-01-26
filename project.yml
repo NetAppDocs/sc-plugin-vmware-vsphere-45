@@ -6,7 +6,7 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: true
-    langs: us-en,ja-jp,zh-cn
+    langs: "us-en,ja-jp,zh-cn"
 sidebar:
   entries:
     - title: SnapCenter Plug-in for VMware vSphere 4.5
