@@ -50,4 +50,4 @@ link:scpivs44_post_deployment_required_operations_and_issues.html[Post deploymen
 
 . Migrate the Windows-based VMware backup metadata.
 +
-link:scpivs44_migrate_from_snapcenter_backup_metadata_to_the_virtual_appliance.html[Migrate Windows-based SnapCenter VMware backup metadata]
+link:scpivs44_migrate_snapcenter_backup_metadata_to_the_virtual_appliance.html[Migrate Windows-based SnapCenter VMware backup metadata]
