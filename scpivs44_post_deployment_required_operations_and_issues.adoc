@@ -26,7 +26,7 @@ If you are a new SnapCenter user, you must add storage VMs to SnapCenter before 
 
 * Existing SnapCenter user
 +
-If you are an existing SnapCenter user, you must migrate your existing SnapCenter VM and datastore backups and metadata. For information about migrating, see link:scpivs44_migrate.html#migration-options.html[Migration options^].
+If you are an existing SnapCenter user, you must migrate your existing SnapCenter VM and datastore backups and metadata. For information about migrating, see link:scpivs44_migrate.html#migration-options[Migration options^].
 
 == Deployment issues you might encounter
 
